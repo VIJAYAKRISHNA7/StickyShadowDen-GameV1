@@ -1,16 +1,70 @@
-# React + Vite
+<div align="center">
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🕶️ StickyShadowDen
 
-Currently, two official plugins are available:
+### *Enter the Shadows. Survive the Chaos.*
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f,1a1a1a,000000&height=200&section=header&text=StickyShadowDen&fontColor=00ffcc&fontSize=45&animation=fadeIn" />
 
-## React Compiler
+---
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+### 🎮 Play Now
 
-## Expanding the ESLint configuration
+👉 https://stickyshadowden.netlify.app/
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+<img src="https://readme-typing-svg.herokuapp.com?color=00FFCC&size=22&center=true&vCenter=true&width=500&lines=Shadow+Adventure+Game;Deadly+Traps+Await;10+Challenging+Levels;Only+the+Sharp+Survive..." />
+
+---
+
+## ⚡ About The Game
+
+🕹️ A dark **stickman shadow adventure** filled with traps and challenges.
+💀 Every move matters — one mistake and it's over.
+🔥 Test your reflexes and survive all levels in the shadows.
+
+---
+
+## 🎯 Features
+
+* 🧍 Stickman Shadow Gameplay
+* ⚔️ Trap-filled Levels
+* 🧠 Skill & Timing Based Mechanics
+* 🌑 Dark Themed Visuals
+* 🚀 Smooth & Fast Gameplay
+
+---
+
+
+
+## 🧩 Tech Stack
+
+* ⚛️ React
+* ⚡ Vite
+* 🎨 Tailwind CSS
+
+---
+
+## 🚀 Run Locally
+
+```bash
+git clone https://github.com/your-username/StickyShadowDen.git
+cd StickyShadowDen
+npm install
+npm run dev
+```
+
+---
+
+## 🌐 Deployment
+
+```bash
+npm run build
+```
+
+---
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=000000,1a1a1a,0f0f0f&height=120&section=footer" />
+
+</div>
